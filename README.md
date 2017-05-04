@@ -2,8 +2,8 @@
 code development for improving Leaflet Maps with Google Sheets
 
 ## DEVELOPMENT 
-- Leaflet Map https://aperez773.github.io/climate-stewardship-map/
-- Google Sheet https://docs.google.com/spreadsheets/d/1tSoGwl2DApSBiTbQhze-DGXouhYFail_lqYJqsMu5is/edit#gid=0
+- Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
+- Google Sheethttps://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
 
 ## See official releases in the MAIN repo
 - Leaflet Map https://aperez773.github.io/climate-stewardship-map/
