@@ -1,3 +1,3 @@
 Leaflet Map https://hartfordclimate.github.io/climate-stewardship-map/
 
-Google Sheet https://docs.google.com/spreadsheets/d/1C74lfKAh09c6Au3hAo5S_cslTuZZiC3ZKCieiLp4Mmw/edit#gid=0
+Google Sheet https://docs.google.com/spreadsheets/d/1kBWxl6xeNVowNm6i3ZulqviZZTKhAYU2zmreoamse64/edit#gid=0
