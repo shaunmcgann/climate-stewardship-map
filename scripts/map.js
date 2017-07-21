@@ -1051,7 +1051,7 @@ $(window).on('load', function() {
     var knox = knoxLegend.children('form');
 
     /* Rename Public Parks into Green Spaces */
-    ppLegend.find('h6').contents().eq(1).replaceWith('Green Space');
+    ppLegend.find('h6').contents().eq(1).replaceWith('Landscape');
     ppLegend.find('form').find('i').addClass('fa fa-map').css('color', 'green');
 
     knox.find('i').addClass('fa fa-circle').css('color', 'green');
